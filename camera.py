@@ -11,7 +11,7 @@ import random
 # Carregar o modelo
 model = AccidentDetectionModel("model.json", 'model_weights.keras')
 font = cv2.FONT_HERSHEY_SIMPLEX
-API_ENDPOINT = "https://acidentedeviacao.xyz/api/report_emergecy1.php"
+API_ENDPOINT = "https://www.seusistemaonline.com/api/report_emergecy.php"
 
 # Debug: ativar mensagens de depuração
 DEBUG = True
