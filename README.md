@@ -27,7 +27,7 @@ Um Sistema de Deteção de Acidentes é desenvolvido para detetar acidentes atra
 
 ### Clonar este repositório
 
-`https://github.com/krishrustagi/Accident-Detection-System.git`
+`https://github.com/amarildomulandeza/sistema-inteligente-para-deteccao-de-acidentes-de-transito.git`
 
 Para instalar todos os pacotes necessários para executar este programa em Python:  
 `pip install -r requirements.txt`
